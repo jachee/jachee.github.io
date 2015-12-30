@@ -1,0 +1,152 @@
+
+@font-face {
+    font-family: 'ClearSans';
+    src: url('clearsans/EOT/ClearSans-Regular.eot');
+    src: url('clearsans/EOT/ClearSans-Regular.eot?#iefix') format('embedded-opentype'),
+         url('clearsans/TTF/ClearSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ClearSans';
+    src: url('clearsans/EOT/ClearSans-Thin.eot');
+    src: url('clearsans/EOT/ClearSans-Thin.eot?#iefix') format('embedded-opentype'),
+         url('clearsans/TTF/ClearSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ClearSans';
+    src: url('clearsans/EOT/ClearSans-Bold.eot');
+    src: url('clearsans/EOT/ClearSans-Bold.eot?#iefix') format('embedded-opentype'),
+         url('clearsans/TTF/ClearSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+body {
+	background:#aaa;
+	color:#333;
+	margin:0;
+	padding:20px 0;
+	font: 10pt/15pt ClearSans, Helvetica, Arial, Verdana, sans-serif; 
+	-webkit-font-smoothing: antialiased; 
+/*	font: 10pt/15pt "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif; 
+	-webkit-font-smoothing: antialiased; */
+}
+#page {
+	background:#f2f2f2;
+	width:690px;
+	margin:0px auto;
+	padding:10px 100px;
+	padding-bottom: 60px;
+	margin-bottom: 20px;
+}
+
+ul {
+list-style:none;
+} 
+li:before {
+    content: "»   "; 
+}
+li {
+padding-left: 22px;
+text-indent: -22px;
+padding-bottom: 3pt;
+}
+
+.picker {
+	position: absolute;
+	top: 64px;
+	right: 64px;
+	background: #FFFFFF;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	vertical-align: center;
+}
+
+.job {  
+clear: left;
+line-height: 13pt;
+}
+
+.header { 
+height: 28pt;
+/*padding: 8px;*/
+}
+
+.when {  
+width: auto;
+font-size: 9pt;
+float: left;
+position: relative;
+top: 12pt;
+}
+
+.title { 
+float:left;
+clear: left;
+position: relative;
+top: -15pt;
+font-size: 12pt;
+font-weight: bold;
+}
+
+.company { 
+float: right;
+clear: right;
+position: relative;
+top: -14pt;
+}
+
+.location { 
+float: right;
+clear: right;
+font-size: 9pt;
+position: relative;
+top: -14pt;
+}
+
+.section { 
+font-size: 18pt;
+line-height: 27pt;
+font-weight: 100;
+border-bottom: 1pt black solid;
+margin-bottom: 20pt;
+}
+
+.address { font-size: 9pt; 
+text-align: right;
+border-top: 1pt solid black;
+padding-top: 2pt;
+}
+
+.name {
+ margin-bottom: 3pt; 
+font-weight: bold;
+/* letter-spacing: 8pt;*/
+text-align: right;
+font-size: 26pt;
+line-height: 30pt;
+}
+
+.details {
+clear: left;
+font-size: 10pt;
+margin-bottom: 12pt;
+width: 550px;
+}
+
+table.qual {
+width: 80%; font-size: 8pt;
+padding: 5px;
+text-indent: 0;
+}
+
+
