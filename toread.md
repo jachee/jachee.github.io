@@ -17,5 +17,5 @@ I realized that I was keeping a ton of tabs open just to read later, and that th
 ## Handy References
 *  http://flask.pocoo.org/docs/0.12/tutorial/templates/
 *  http://errbot.io/en/latest/user_guide/plugin_development/basics.html
-
+*  https://12factor.net
 
