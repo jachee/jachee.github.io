@@ -9,6 +9,7 @@ I realized that I was keeping a ton of tabs open just to read later, and that th
 *  http://howistart.org/posts/clojure/1/index.html
 *  https://askubuntu.com/questions/516377/slow-bash-tab-completion
 *  https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/
+*  https://omarmetwally.wordpress.com/2017/07/25/how-to-create-a-private-ethereum-network/
 
 ## Awesome Lists:
 *  https://github.com/sindresorhus/awesome
