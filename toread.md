@@ -14,6 +14,7 @@ I realized that I was keeping a ton of tabs open just to read later, and that th
 ## Awesome Lists:
 *  https://github.com/sindresorhus/awesome
 *  https://github.com/vinta/awesome-python
+*  https://insimpleterms.blog/2017/08/07/the-tech-leads-new-project-checklist/
 
 ## Handy References
 *  http://flask.pocoo.org/docs/0.12/tutorial/templates/
