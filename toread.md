@@ -11,7 +11,7 @@ I realized that I was keeping a ton of tabs open just to read later, and that th
 *  https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/
 *  https://omarmetwally.wordpress.com/2017/07/25/how-to-create-a-private-ethereum-network/
 
-## Awesome Lists:
+## Awesome Lists
 *  https://github.com/sindresorhus/awesome
 *  https://github.com/vinta/awesome-python
 *  https://insimpleterms.blog/2017/08/07/the-tech-leads-new-project-checklist/
@@ -21,3 +21,6 @@ I realized that I was keeping a ton of tabs open just to read later, and that th
 *  http://errbot.io/en/latest/user_guide/plugin_development/basics.html
 *  https://12factor.net
 
+## Interesting Articles
+*  https://vsupalov.com/6-docker-basics/
+*  https://surfingthe.cloud/idiomatic-containers/
