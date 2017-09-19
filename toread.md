@@ -1,6 +1,6 @@
 # To Read:  Things I want to read eventually.
 
-I realized that I was keeping a ton of tabs open just to read later, and that that was probably a Bad Idea. So, I'm making this list of links:
+I realized, at some point, that I was keeping a ton of tabs open just to read later and that that was probably a Bad Idea&trade;. So, I'm making this list of links:
 
 ## How-Tos
 *  http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/

@@ -8,5 +8,5 @@ Well, right now it's my last-gen resume.
 ## TODO:
 
 * Update _actual_ jobs
-* Bootstrap
-* FlatUI
+* Bootstrap?
+* FlatUI?
