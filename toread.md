@@ -24,3 +24,6 @@ I realized, at some point, that I was keeping a ton of tabs open just to read la
 ## Interesting Articles
 *  https://vsupalov.com/6-docker-basics/
 *  https://surfingthe.cloud/idiomatic-containers/
+
+## Fonts
+*  https://www.typography.com/fonts/isotope/webfonts/isotope-book
