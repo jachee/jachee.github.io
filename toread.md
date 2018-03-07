@@ -10,6 +10,7 @@ I realized, at some point, that I was keeping a ton of tabs open just to read la
 *  https://askubuntu.com/questions/516377/slow-bash-tab-completion
 *  https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/
 *  https://omarmetwally.wordpress.com/2017/07/25/how-to-create-a-private-ethereum-network/
+*  https://jacobian.org/writing/python-environment-2018/
 
 ## Awesome Lists
 *  https://github.com/sindresorhus/awesome
