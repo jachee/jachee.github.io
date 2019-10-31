@@ -3,7 +3,7 @@ body {
 	color:black;
 	margin:0;
 	padding:20px 0;
-	font: 10pt/15pt Optima, Helvetica, Arial, Verdana, sans-serif; 
+	font: 12pt/16pt Optima, Gill Sans MT, Helvetica, sans-serif; 
 	-webkit-font-smoothing: antialiased; 
 /*	font: 10pt/15pt "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif; 
 	-webkit-font-smoothing: antialiased; */
@@ -109,13 +109,14 @@ line-height: 30pt;
 
 .details {
 clear: left;
-font-size: 12pt;
+/* font-size: 12pt; */
 margin-bottom: 12pt;
 width: 750px;
 }
 
 table.qual {
-width: 80%; font-size: 9pt;
+width: 85%;
+font-size: 9pt;
 padding: 5px;
 text-indent: 0;
 }
