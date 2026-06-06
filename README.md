@@ -10,3 +10,4 @@ Well, right now it's my last-gen resume.
 * Update _actual_ jobs
 * Bootstrap?
 * FlatUI?
+* ~~make the default branch better~~
